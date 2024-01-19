@@ -1,2 +1,12 @@
-- https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20231219/{z}/{x}/{y}.png
-- https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20240102/{z}/{x}/{y}.png
+# ASNARO-2 SAR image tilesets of Noto Peninsula earthquake 2024
+
+High-resolution SAR images of [ASNARO-2](https://www.jsicorp.jp/product/satellite/asnaro2.html) released by NEC Corporation as a disaster response to the January 1, 2024 Noto Peninsula earthquake in Ishikawa, Japan. [Hidenori Watanave Laboratory at the University of Tokyo](https://labo.wtnv.jp/) created tilesets with MapTiler Engine.
+
+XYZ TileSet URL (Cannot be opened directly):
+- 20231219 https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20231219/{z}/{x}/{y}.png
+- 20240102 https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20240102/{z}/{x}/{y}.png
+
+WebApps URL:
+
+- [20231219](https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20231219/{z}/{x}/{y}.png)
+- [20240102](https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20240102/{z}/{x}/{y}.png)
