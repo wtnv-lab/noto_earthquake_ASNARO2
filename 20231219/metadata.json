@@ -1,0 +1,13 @@
+{
+  "name": "20231219",
+  "version": "1.1.0",
+  "description": "",
+  "attribution": "<a href=\"https://www.maptiler.com/engine/\">Rendered with MapTiler Engine</a>",
+  "type": "overlay",
+  "format": "png",
+  "minzoom": "11",
+  "maxzoom": "17",
+  "scale": "1.000000",
+  "bounds": [136.91750641, 37.32652929, 137.08773708, 37.46465135],
+  "profile": "mercator"
+}
