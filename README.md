@@ -1,0 +1,2 @@
+- https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20231219/{z}/{x}/{y}.png
+- https://wtnv-lab.github.io/noto_earthquake_ASNARO2/20240102/{z}/{x}/{y}.png
